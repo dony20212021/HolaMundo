@@ -1,0 +1,16 @@
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\App2.exe
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\App2.deps.json
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\App2.runtimeconfig.json
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\App2.runtimeconfig.dev.json
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\App2.dll
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\ref\App2.dll
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\bin\Debug\net5.0\App2.pdb
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.csprojAssemblyReference.cache
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.AssemblyInfoInputs.cache
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.AssemblyInfo.cs
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.dll
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\ref\App2.dll
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.pdb
+C:\Users\RHINO VS OJITOS\source\repos\App2\App2\obj\Debug\net5.0\App2.genruntimeconfig.cache
